@@ -1,0 +1,43 @@
+{
+  "name": "feross",
+  "description": "It's me, Feross!",
+  "version": "0.0.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org/"
+  },
+  "bin": {
+    "feross": "./bin/cmd.js"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/feross/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "standard": "*"
+  },
+  "homepage": "https://github.com/feross/feross",
+  "keywords": [
+    "business card",
+    "card",
+    "feross",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card"
+  ],
+  "license": "MIT",
+  "main": "./bin/cmd.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/feross.git"
+  },
+  "scripts": {
+    "build": "node ./tools/build.js",
+    "start": "npm run build && ./bin/cmd.js",
+    "test": "standard"
+  }
+}
