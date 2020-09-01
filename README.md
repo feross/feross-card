@@ -1,11 +1,11 @@
-# feross [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+# feross-card [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
-[travis-image]: https://img.shields.io/travis/feross/feross/master.svg
-[travis-url]: https://travis-ci.org/feross/feross
-[npm-image]: https://img.shields.io/npm/v/feross.svg
-[npm-url]: https://npmjs.org/package/feross
-[downloads-image]: https://img.shields.io/npm/dm/feross.svg
-[downloads-url]: https://npmjs.org/package/feross
+[travis-image]: https://img.shields.io/travis/feross/feross-card/master.svg
+[travis-url]: https://travis-ci.org/feross/feross-card
+[npm-image]: https://img.shields.io/npm/v/feross-card.svg
+[npm-url]: https://npmjs.org/package/feross-card
+[downloads-image]: https://img.shields.io/npm/dm/feross-card.svg
+[downloads-url]: https://npmjs.org/package/feross-card
 [standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [standard-url]: https://standardjs.com
 
@@ -16,7 +16,7 @@
 To see my `npm` business card, just run:
 
 ```
-npx feross
+npx feross-card
 ```
 
 Inspired by [bitandbang](https://github.com/bnb/bitandbang)'s card!

@@ -17,7 +17,7 @@ const data = {
   github: chalk.gray('https://github.com/') + chalk.green('feross'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('feross'),
   web: chalk.cyan('https://feross.org'),
-  npx: chalk.red('npx') + ' ' + chalk.white('feross'),
+  npx: chalk.red('npx') + ' ' + chalk.white('feross-card'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
   labelTwitter: chalk.white.bold('    Twitter:'),

@@ -1,5 +1,5 @@
 {
-  "name": "feross",
+  "name": "feross-card",
   "description": "It's me, Feross!",
   "version": "1.0.0",
   "author": {
@@ -11,7 +11,7 @@
     "feross": "./bin/cmd.js"
   },
   "bugs": {
-    "url": "https://github.com/feross/feross/issues"
+    "url": "https://github.com/feross/feross-card/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -19,7 +19,7 @@
     "chalk": "^2.4.2",
     "standard": "*"
   },
-  "homepage": "https://github.com/feross/feross",
+  "homepage": "https://github.com/feross/feross-card",
   "keywords": [
     "business card",
     "card",
@@ -33,7 +33,7 @@
   "main": "./bin/cmd.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/feross.git"
+    "url": "git://github.com/feross/feross-card.git"
   },
   "scripts": {
     "build": "node ./tools/build.js",
