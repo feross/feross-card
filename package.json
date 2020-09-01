@@ -5,7 +5,7 @@
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
-    "url": "https://feross.org/"
+    "url": "https://feross.org"
   },
   "bin": {
     "feross": "./bin/cmd.js"
@@ -39,5 +39,19 @@
     "build": "node ./tools/build.js",
     "start": "npm run build && ./bin/cmd.js",
     "test": "standard"
-  }
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/feross"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/feross"
+    },
+    {
+      "type": "consulting",
+      "url": "https://feross.org/support"
+    }
+  ]
 }
