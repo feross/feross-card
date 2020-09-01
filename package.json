@@ -15,8 +15,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "boxen": "^4.1.0",
-    "chalk": "^2.4.2",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
     "standard": "*"
   },
   "homepage": "https://github.com/feross/feross-card",
